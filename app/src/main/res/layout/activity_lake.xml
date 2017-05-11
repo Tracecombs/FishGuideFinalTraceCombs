@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_lake"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="css.cis3334trace.fishguidefinal.LakeActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink7"
+        android:id="@+id/hyperlink7"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink9"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink5"
+        android:id="@+id/hyperlink5"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink6"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink4"
+        android:id="@+id/hyperlink4"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink5"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink3"
+        android:id="@+id/hyperlink3"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink4"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink2"
+        android:id="@+id/hyperlink2"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink3"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink1"
+        android:id="@+id/hyperlink"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink2"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink8"
+        android:id="@+id/hyperlink8"
+        android:autoLink="web"
+        android:layout_marginBottom="21dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink0"
+        android:id="@+id/hyperlink0"
+        android:autoLink="web"
+        android:layout_marginTop="56dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Minnesota DNR Lake finder:"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Top minnesota lakes for variety fishing:"
+        android:ems="10"
+        android:layout_above="@+id/hyperlink"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="13dp"
+        android:id="@+id/editText2" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink6"
+        android:id="@+id/hyperlink6"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink7"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink9"
+        android:id="@+id/hyperlink9"
+        android:autoLink="web"
+        android:layout_above="@+id/hyperlink8"
+        android:layout_alignParentStart="true">
+    </TextView>
+
+</RelativeLayout>

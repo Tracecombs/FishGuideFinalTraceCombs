@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "959585887304",
+    "firebase_url": "https://fishguidefinal.firebaseio.com",
+    "project_id": "fishguidefinal",
+    "storage_bucket": "fishguidefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959585887304:android:9065b700962af603",
+        "android_client_info": {
+          "package_name": "css.cis3334trace.fishguidefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959585887304-qd8a0hrt8tsa7abck6991i68hafu0gt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "css.cis3334trace.fishguidefinal",
+            "certificate_hash": "7107dcab7bee6c54a3f2db8c0ad285ddf3e4dbc2"
+          }
+        },
+        {
+          "client_id": "959585887304-s450j47jvfvhmqamrvjnrm96duqvtgub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCER5QHlDqeCNayJlPC0dJQ8Yh7V3_K1_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959585887304-s450j47jvfvhmqamrvjnrm96duqvtgub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

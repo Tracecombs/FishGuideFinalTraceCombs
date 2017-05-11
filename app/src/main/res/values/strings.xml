@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">FishGuideFinal</string>
+    <string name="title_activity_bass">BassActivity</string>
+    <string name="large_textBass">
+        Bass are widely known as one of the best fighters and most exciting sport fish to catch. They are known for their aggressive nature and can be found in some variation in most parts of the world. Minnesota houses
+        mostly large and smallmouth bass, so the following information is relating to these two species.\n\n
+
+        Habitat: Bass like to hang out around sunken objects such as downed trees, sunken barrels, and patches of weeds.
+        They alternate between the deeper cooler waters and the warm shallows depending on the time of year
+        and the weather. \n\n
+
+        Most bass are found in lakes, but are also present in large rivers and ponds.\n
+
+        size: Bass can be caught anywhere from a couples ounces to upwards of 10 pounds. The largemouth tend to grow larger and wider, but small mouth also hold the potential to get large.\n\n
+
+        Lures and Bait: Bass are hungry fish and will go after just about any bait you throw. for a more relaxed experience throw on a bobber and some worms or leeches and wait for a bass to strike.
+        When fishing around feeding time or spawning time it is smart to use fast moving shiny baits with some sort of "action" or movement on them.
+        The most popular Lures for bass are top-water frogs (especially with a light rain or calm waters, spinners, and jigs.\n\n
+
+        weather: bass are easiest to catch when the weather is warmer but not scorching, as this will draw them out of the deep waters and activate their feeding.
+        The best weather for bass is right before, or after a storm, or during a light rain.\n\n
+
+
+    </string>
+    <string name="large_textCrappie">
+       Crappie are a highly sought after panfish due to their delicious taste and strong fight proportionate to size.
+        They are also open year round in MN meaning you can ice fish for them or target them early spring when they spawn\n\n
+
+        Habitat: Crappie like to hangout in areas with decent cover, as to avoid their many predators. They hangout in schools varying size, so if you catch one there are likely to be others in their spot
+        in the winter they can be found hanging out deep in the weeds, and in the early spring they migrate into the shallow shores and cling to large docked areas for cover.\n\n
+
+        Most crappie are found in lakes and ponds.\n
+
+        size: Crappie are smaller than most other sport fish, but are large in comparison to their panfish relatives adult crappie can rival bass in size, but more often fall slightly short. they are a much thinner fish than a bass or northern.\n\n
+
+        Lures and Bait: Crappie are most easily caught on a bobber, live bait set up. nightcrawlers, waxworms, and minnows seem to be their favorites but you can find success with most live bait.
+        They are also known to target small spoons and spinners from time to time but these are much less consistent techniques.\n\n
+
+        weather: Crappie can be caught in most every weather, but the slowest times would be days with heavy rainfall or high gusts of wind as the choppy waters make it hard to target bait, and they often retreat to the deeper safer waters.\n\n
+
+
+    </string>
+     <string name="large_textcatfish">
+       Catfishing is a very relaxed style of fishing as you spend a lot of time watching the end of your pole for movement. When a fish is hooked though, catfishing can be one of the most tiresome fights due to the sheer size and power of the fish.\n\n
+
+        Habitat: Catfish reside in the murky, muddy sediment fills parts of lakes, streams, and rivers. They are bottomfeeders so they stick to the bottom coasting around looking for food. They also tend to hide in rocky caverns, or hollow spots at the floor of the river/lake. \n\n
+
+        Most catfish are found in large rivers near the bottom.\n
+
+        size: Catfish are a much larger fish than most others targeted in Minnesota. the smaller catfish average around 10 inches while full grown adults can reach upwards of 4 feet and 50 lbs.\n\n
+
+        Lures and Bait: To catch a catfish you need a special rig. For starters you must use a very thick rod and reel, with a strong line attached as catfish can grow to insane sizes. in addition to the heavy duty gear you need
+         a heavy weight to stay on the bottom of the water, and a large hook for their large mouths. for bait it is best to use old meat and fish, or cut bait, which is basically sliced up chunks of fish. Really, anything digusting and smelly that will stay on a hook has a good chance of working,
+         as bottom feeding fish are not picky.\n\n
+
+        weather: Catfish are not affected by weather that much due to the fact they hangout way at the bottom of rivers where the weather doesnt do much. Fast currents are usually not catfish friendly environments, because they are lazy thus preferring slower waters.
+         This means large storms or snow melts make it harder to target the fish.\n\n
+
+</string>
+<string name="large_textMuskey">
+The Muskellunge, or muskey is one of the most elusive game fish in the united states, but can be found in many minnesota lakes. Also known as the fish of 1000 casts, muskey do not have to eat as often as other fish, making them hard to target and catch.\n\n
+
+   Habitat: Muskey’s usually hang out around docks or tree cover, and are also known to cruise the shallows looking for food or warmth they can also be found in larger rivers at any depth.\n\n
+
+Muskey are found in lakes and larger rivers.\n
+
+   Size: Muskey are one of the larger game fish in minnesota as well. They have a long and powerful build and can exceed 50 inches in adulthood. Younger muskey are around 30 inches long making them consistently larger than the catfish.\n\n
+
+   Lures and Bait: to fish for such a large game you will need a pole larger than a bass reel but smaller than a catfishing set up. When using live bait a large hook is needed as well as a steel leader to avoid the muskeys big teeth. For lures it is best to use very large spoons, or swim bait. Dont be afraid to go big, Muskeys like large meals.\n
+
+A bonus tactic for catching Muskey is the “figure 8”. This is when your lure is right beside the boat or dock, you move the lure in a figure 8 pattern, which has shown to entice Muskey into going after your lure. \n\n
+
+   weather: Muskey are not very weather dependent fish, so most weather that isn’t very severe is fine for catching them. The real challenge is finding a hungry one.\n\n
+
+
+</string>
+<string name="large_textTrout">
+Trout come in many variations but the techniques for catching them are fairly similar. Trout can be found in streams, rivers, and lakes all across Minnesota. They are most prevalent in the springtime when they head upstream to spawn.\n\n
+
+   Habitat: When in lakes trout tend to stick to the bottom of the lake because they are a cool water fish. To target them in the lake you need to drop your bait just above the bottom of the lake. In rivers trout hangout in the pockets of slow moving water. They wait there for food to flow by, without having to use energy swimming against the current.\n\n
+
+
+   Size: Trout vary hugely in size, from small 6 inch adults, all the way to upwards of 30 inches. Different species of trout tend to be alrger than others.\n\n
+
+   Lures and Bait: To catch trout in lakes it is best to use a jigging set up, and bounce it off the bed of the lake. With river fish the lures and technique are more complicated. Trout are smart animals and can often tell fake bait from real. This is why one of the best ways to catch them is with a worm and bobber floating down the river.
+    They also love bugs so any sort of artificial bug that stays afloat works as well. The best technique is to use a fly fishing rod, with a small midge on it, always keeping tension as you reel in.\n\n
+
+
+   weather: Trout are cold water fish so the best days to target them are cooler afternoons or early evenings, A light rain will agitate the trout into feeding as a lot of bugs fall into the water at this time. Early spring right as the cold snow melts into the rivers is the most ideal time to target river trout.\n\n
+
+</string>
+<string name="large_textNorthern">
+For many fisherman the Northern Pike is considered to be a nuisance fish that they do not want to run into while fishing for bass and muskey. This is due to the fact they have a slightly slimey body, large teeth, and bony bodies,
+    that are hard to filet and eat. Despite this they are still a very enjoyable fight and can give you a run for your money. \n\n
+
+    Habitat: The Northern can be found in all parts of all lakes and rivers but prefer to hangout in shallows where they can easily spot prey.\n
+    Size: Northern are a larger fish, usually between 12 inches as a younger fish, to upwards of 45 inches full grown. They got the nickname "snakes due to their long slender bodies and slippery skin. \n\n
+    Lures and Bait: the bonus to fishing for northern is that they go after any bait you could imagine. This is another reason fishermen consider them pesks is because there is no good way to avoid them. \n\n
+    weather: Northern are resilient fish and can be caught in most weather conditions. As with all other fish avoid fishing during large storms or days with heavy windfall.\n\n
+
+
+</string>
+<string name="large_textLures">
+This portion of the app is a brief overview of the main types of bait used for fishing in minnesota, as well as what they are good for. \n\n
+
+    Top Water Baits: As the name implies, This type of bait stays on top of the water and often replicates a type of prey that would swim along the top of the water. The most popular of the top water lures
+    is the frog. Frogs are great for catching larger sized bass as well as northern, muskey or any other aggressive predator fish. Top waters are best used on calm watered days or with a very light rain. \n\n
+
+    Spinner: Spinners are a great beginner lure because they are so easy to use. They are essentially a metal shaft with spinning blade. The hook can be bare or dressed.
+    Dragging a spinner through water causes the blade to spin. The spinning motion of the blade creates sound and vibration that can be picked up by fish through their lateral line \n\n
+
+    Jig: jig fishing takes a lot of concentration, unlike spinners, all the “action” (how a lure moves in the water) comes from you. If you don’t do anything the jig just sinks. The classic way to fish a jig is to cast it out, wait until it hits the bottom (you will know it has hit bottom when your line goes slack), then retrieve it in a series of hops. You make it hop by lifting the rod tip, lowering it, and retrieving your line.
+    Try different speeds, big lifts, little hops, twitching until you find what works. Pay attention, though. Detecting the strike is the hardest thing about jigging. \n\n
+
+    Spoons: Spoons are curved metal lures. The first spoons were just that, spoons with the handle broken off. Today, spoons can be had (like all other lures) in any color and size. There is a spoon for every fishing situation.
+    The shape of this lure gives it its distinctive action. Spoons move through water with a side-to-side wobble that simulates an injured baitfish, and game fish just love injured baitfish. \n\n
+
+    Plugs: Plugs are constructed from hollow plastic or wood to resemble baitfish, frogs or other prey. They usually sport two or three treble hooks. These hard bodied lures can be fished at almost any depth, as some are made to float or dive or both. Depending on the design, a plug will wobble, rattle or gurgle. They come in all sizes, and most of them have some sort of plastic lip that allows them to dive when you pull them through the water.
+    Different kind of plugs include: crankbaits, jerkbaits, surface plugs, floating/diving plugs, and poppers, \n\n
+
+    Buzzbaits: Spinnerbaits and buzzbaits are awkward looking lures, consisting of a safety-pin like wire attached to a lead head body. The body usually is dressed with a rubber skirt and the arm with one or two metallic blades like those seen on spinners.
+    The most common way to fish a spinnerbait is what is called “Chuck-N-Wind,” simply cast it out and retrieve it at a moderate speed, keeping the lure at a depth between the surface and five feet. It is a popular technique because it is effective. \n\n
+
+    dddddddddddddddddddddddddddddddddddddddddddddddddddd \n\n
+
+
+
+</string>
+
+    <string name="hyperlink1">http://www.dnr.state.mn.us/lakefind/lake.html?id=40011700</string>
+    <string name="hyperlink2">http://www.lakelubbers.com/alexandria-chain-of-lakes-2289/</string>
+    <string name="hyperlink3">http://www.dnr.state.mn.us/lakefind/lake.html?id=27013300</string>
+    <string name="hyperlink4">http://www.dnr.state.mn.us/lakefind/lake.html?id=10005900</string>
+    <string name="hyperlink5">http://www.dnr.state.mn.us/lakefind/lake.html?id=04006400</string>
+    <string name="hyperlink6">http://www.dnr.state.mn.us/lakefind/lake.html?id=29024200</string>
+    <string name="hyperlink7">http://www.lakelubbers.com/whitefish-chain-of-lakes-1572/</string>
+    <string name="hyperlink8">http://www.dnr.state.mn.us/lakefind/lake.html?id=69037800</string>
+    <string name="hyperlink9">http://www.dnr.state.mn.us/lakefind/lake.html?id=56024200</string>
+    <string name="hyperlink0">http://www.dnr.state.mn.us/lakefind/index.html</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_crappie">CrappieActivity</string>
+    <string name="title_activity_catfish">CatfishActivity</string>
+    <string name="title_activity_northern">NorthernActivity</string>
+    <string name="title_activity_muskey">MuskeyActivity</string>
+    <string name="title_activity_trout">TroutActivity</string>
+    <string name="title_activity_lakes">LakesActivity</string>
+    <string name="title_activity_lures">LuresActivity</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log In</string>
+</resources>
